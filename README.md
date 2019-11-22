@@ -1,13 +1,18 @@
-# Weather-App-Using-Ajax
+# Weather-App-
 Open weather map API provides current weather data, weather forecast data as well as historical weather data.
 With our application, we will make API calls by city name to the open weather map API using Ajax to get response in JSON format.
 
-The weather app will be used to:
-Get current weather information like temperature, pressure, humidity, wind speed, wind direction etc.
-Get weather forecast information of any city by city name and number of days.
-Features:
-Make API calls with Ajax.
-Open weather map API description.
-Get current weather information.
-Get weather forecast information.
-Use jquery plugin to animate text.
+List of Technologies Used:
+1.HTML
+2.CSS
+3.JQuery
+4.Bootstrap
+
+Api Used:
+1.OpenWeather API
+2.Mapbox API
+
+List of EndPoints Used:
+1.Search
+2.5days/3hrs
+3 latitude and longitude.
