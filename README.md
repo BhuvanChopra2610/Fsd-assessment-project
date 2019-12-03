@@ -14,5 +14,5 @@ Api Used:
 
 List of EndPoints Used:
 1.Search
-2.5days/3hrs
+2.min-1 day to max-16 days
 3 latitude and longitude.
